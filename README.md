@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Readify**
 
-- 💬 Ask me about **Mobile Application Development**
-
 - 📫 How to reach me **denizdmbk19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
