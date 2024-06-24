@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software engineer from Turkey</h3>
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*99QW3Cgy77Mya7sX7TbbYA.jpeg">
 
-- 🔭 I’m currently following a google skillshop course by Gazihan Alankus to improve myself as a Flutter Developer and get certificate. 
-
+- 🔭 I’m currently following a google skillshop course by Gazihan Alankus to improve myself as a Flutter Developer and get certificate.
+-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" /> You can reach the link of the tutorial that I am currently working on. I strongly recomend any Flutter Developer that has the basic knowledge of programming and wants to improve his/her Flutter and Dart skills.
 - 📫 How to reach me **denizdmbk19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
