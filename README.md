@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Turkey</h3>
 <img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*99QW3Cgy77Mya7sX7TbbYA.jpeg">
 
-- 🔭 I’m currently working on **Readify**
+- 🔭 I’m currently following a google skillshop course by Gazihan Alankus to improve myself as a Flutter Developer and get certificate. 
 
 - 📫 How to reach me **denizdmbk19@gmail.com**
 
