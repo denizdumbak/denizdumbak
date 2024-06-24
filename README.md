@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
-<img align="right" alt="Coding" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*99QW3Cgy77Mya7sX7TbbYA.jpeg">
 
-- 🔭 I’m currently following a google skillshop course by Gazihan Alankus to improve myself as a Flutter Developer and get certificate.
--  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" /> You can reach the link of the tutorial that I am currently working on. I strongly recomend any Flutter Developer that has the basic knowledge of programming and wants to improve his/her Flutter and Dart skills.
+- 🌱 I’m currently following **a google tutorial by Gazihan Alankus. I strongly recomend this course to any people that have interest in Flutter and learn more detail and background of the Flutter and Dart.** Here is the link: https://skillshop.exceedlms.com/student/collection/785394-develop-app-flutter?sid=37c24f7a-f4f3-47e1-95a0-c9c8ff8f6d28&sid_i=1 (Turkish)
+
+- 💬 Ask me about **Mobile Application Development**
+
 - 📫 How to reach me **denizdmbk19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deniz dumbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deniz dumbak" height="30" width="40" /></a>
 <a href="https://instagram.com/deniz.dumbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deniz.dumbak" height="30" width="40" /></a>
+<a href="https://medium.com/@denizdmbk19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denizdmbk19" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/deniz19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deniz19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
